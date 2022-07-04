@@ -1,5 +1,5 @@
 module.exports = {
   envList: [{
-    envId:'tot-2g2lwx68323cf1d1'
+    envId:'上述步骤中你获得的环境ID (保留单引号)'
   }]
 }
